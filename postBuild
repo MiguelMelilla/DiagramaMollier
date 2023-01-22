@@ -1,0 +1,4 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable collapsible_headings/main
+jupyter serverextension enable --py nbgitpuller --sys-prefix
+jupyter nbextension enable --sys-prefix hide_code
