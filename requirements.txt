@@ -1,0 +1,8 @@
+rise==5.7.1
+pyromat
+ipywidgets
+hide_code
+jupyter==1.0.0
+jupyter-contrib-nbextensions==0.5.0
+nbgitpuller
+CoolProp
